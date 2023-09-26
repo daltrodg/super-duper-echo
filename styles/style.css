@@ -1,0 +1,10 @@
+.btn{
+  top: 50%;
+  position: relative;
+  margin-right: 20px;
+}
+
+body{
+  background-image:      url("https://freefrontend.com/assets/img/css-background-patterns/2023-dark-mode-mastodon-pattern.png");
+  color: white;
+}
